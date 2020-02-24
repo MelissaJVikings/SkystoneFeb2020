@@ -1,5 +1,8 @@
 ## TeamCode Module
 
+## Add Your Name Here
+## Coach Melissa Jenkins
+
 Welcome!
 
 This module, TeamCode, is the place where you will write/paste the code for your team's
